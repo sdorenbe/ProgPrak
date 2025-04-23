@@ -1,4 +1,4 @@
-package org.example2;
+package Exercise1;
 
 public class Textbook extends Book{
 
@@ -13,4 +13,5 @@ public class Textbook extends Book{
     public String getInfo() {
         return super.getInfo() + " Subject:" + subject;
     }
+
 }

@@ -1,4 +1,4 @@
-package org.example2;
+package Exercise1;
 
 public class Publication {
 
